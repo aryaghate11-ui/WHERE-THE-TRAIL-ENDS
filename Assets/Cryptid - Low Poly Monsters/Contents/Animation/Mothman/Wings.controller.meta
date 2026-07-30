@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 124ea96d85b26b74187c5a54baa65267
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166160
+  packageName: 'Cryptid: Low Poly Monsters'
+  packageVersion: 1.1
+  assetPath: Assets/Cryptid - Low Poly Monsters/Contents/Animation/Mothman/Wings.controller
+  uploadId: 392385

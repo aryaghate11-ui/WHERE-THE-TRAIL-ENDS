@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 70f793b9e044fab4fa36476161eeca52
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166160
+  packageName: 'Cryptid: Low Poly Monsters'
+  packageVersion: 1.1
+  assetPath: Assets/Cryptid - Low Poly Monsters/Contents/Animation/AnimateGhost.cs
+  uploadId: 392385
