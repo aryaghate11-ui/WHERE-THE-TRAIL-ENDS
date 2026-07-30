@@ -1,0 +1,15 @@
+Model = "D:/UNITY PROJECTS/story game/Assets/VoiceGPT/Models/Model.pth"
+Config = "D:/UNITY PROJECTS/story game/Assets/VoiceGPT/Models/ModelConfig.yml"
+ASRModel = "D:/UNITY PROJECTS/story game/Assets/VoiceGPT/Models/ASRModel.pth"
+ASRConfig = "D:/UNITY PROJECTS/story game/Assets/VoiceGPT/Models/ASRConfig.yml"
+F0Model = "D:/UNITY PROJECTS/story game/Assets/VoiceGPT/Models/F0Model.t7"
+BERTModel = "D:/UNITY PROJECTS/story game/Assets/VoiceGPT/Models/BERTModel.t7"
+BERTConfig = "D:/UNITY PROJECTS/story game/Assets/VoiceGPT/Models/BERTConfig.yml"
+_text = """You Know, why i didnt kill you , and why i am not going to kill you ? becuase i need to find my answers you will give me my answers"""
+_targetVoice = "D:/UNITY PROJECTS/story game/Assets/VoiceGPT/Voices/Preview Voices/Damon.wav"
+_outputPath = "D:/UNITY PROJECTS/story game/Assets/VoiceGPT/Voices/Damon_Voice_0.wav"
+_eScale = 3
+_alpha = 0.3
+_beta = 0.7
+_steps = 5
+_enableEScale = False
