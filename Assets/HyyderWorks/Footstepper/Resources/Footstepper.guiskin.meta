@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9220a2b13cece204a9e6c077dd060ade
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326141
+  packageName: 'Footstepper : Lightweight Footsteps Solution'
+  packageVersion: 1.0.1
+  assetPath: Assets/HyyderWorks/Footstepper/Resources/Footstepper.guiskin
+  uploadId: 774132

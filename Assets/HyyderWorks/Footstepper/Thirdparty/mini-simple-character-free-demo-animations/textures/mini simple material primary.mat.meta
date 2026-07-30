@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 79d0152043070e649ad8fd55f3655aa0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326141
+  packageName: 'Footstepper : Lightweight Footsteps Solution'
+  packageVersion: 1.0.1
+  assetPath: Assets/HyyderWorks/Footstepper/Thirdparty/mini-simple-character-free-demo-animations/textures/mini
+    simple material primary.mat
+  uploadId: 774132

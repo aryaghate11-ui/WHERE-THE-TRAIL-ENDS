@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a791f4edd371a5c4fb14d52e8b4cd6ce
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326141
+  packageName: 'Footstepper : Lightweight Footsteps Solution'
+  packageVersion: 1.0.1
+  assetPath: Assets/HyyderWorks/Footstepper/Thirdparty/mini-simple-character-free-demo-animations/Animator/DemoPlayer.controller
+  uploadId: 774132

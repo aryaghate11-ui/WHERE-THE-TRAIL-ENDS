@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 893eb0b3904850741977238e4fddd577
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326141
+  packageName: 'Footstepper : Lightweight Footsteps Solution'
+  packageVersion: 1.0.1
+  assetPath: Assets/HyyderWorks/Footstepper/Demo/Terrain/DemoTerrain.asset
+  uploadId: 774132

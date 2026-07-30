@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7064a597d85b0374b80904cbac42a4b5, type: 3}
+  m_Name: NewFootstepData
+  m_EditorClassIdentifier: Assembly-CSharp::HyyderWorks.Footstepper.FootstepsDatabase
+  stepDistance: 1.5
+  defaultVolume: 1
+  groundLayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  textureFootsteps:
+  - name: grass
+    texture: {fileID: 2800000, guid: 0bbb44ba4e73a3f4c9b7215a22abd143, type: 3}
+    footstepSounds:
+    - {fileID: 8300000, guid: 551d550ab98e3cc4bb7793e752fe8628, type: 3}
+    - {fileID: 8300000, guid: 18e761ff5ef14fd4588d9283fcc9b829, type: 3}
+    - {fileID: 8300000, guid: 38cb68a2a49e89c46bea091d75b27976, type: 3}
+    - {fileID: 8300000, guid: a62172e6f7275ff4f94c17edc8dfdd0d, type: 3}
+    - {fileID: 8300000, guid: 6a0b4267ac8ee8448b619bc9a3bca6d9, type: 3}
+    volumeMultiplier: 1
+    pitchVariation: 0.1
+    terrainLayerIndex: 0
+  - name: dirt
+    texture: {fileID: 2800000, guid: db739f5448c640e48890d0f2b909c1ed, type: 3}
+    footstepSounds:
+    - {fileID: 8300000, guid: 9ea11a2d13d536e4e8441a0f5895995c, type: 3}
+    - {fileID: 8300000, guid: 203ac8b6f07070e4f93f1c1a6fff06c3, type: 3}
+    - {fileID: 8300000, guid: ac6649006dbee9e4685752e124111da7, type: 3}
+    - {fileID: 8300000, guid: f42914d98b070f741b2feee96a2988ee, type: 3}
+    - {fileID: 8300000, guid: feb62160ad1f8334ab037017b843d162, type: 3}
+    volumeMultiplier: 1
+    pitchVariation: 0.1
+    terrainLayerIndex: 1
+  defaultFootstepSounds: []

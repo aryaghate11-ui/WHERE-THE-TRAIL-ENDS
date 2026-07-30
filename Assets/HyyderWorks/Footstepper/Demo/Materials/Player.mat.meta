@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e0021a11a8adecd4ea84cf22b64e869e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326141
+  packageName: 'Footstepper : Lightweight Footsteps Solution'
+  packageVersion: 1.0.1
+  assetPath: Assets/HyyderWorks/Footstepper/Demo/Materials/Player.mat
+  uploadId: 774132

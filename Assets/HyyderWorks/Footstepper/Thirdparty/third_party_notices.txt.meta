@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e6f868f17ba57004cace91a2f81406ca
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326141
+  packageName: 'Footstepper : Lightweight Footsteps Solution'
+  packageVersion: 1.0.1
+  assetPath: Assets/HyyderWorks/Footstepper/Thirdparty/third_party_notices.txt
+  uploadId: 774132

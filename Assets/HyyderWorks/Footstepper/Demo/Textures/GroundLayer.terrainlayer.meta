@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c56b9ae2562c48e489a8354e5d03c393
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326141
+  packageName: 'Footstepper : Lightweight Footsteps Solution'
+  packageVersion: 1.0.1
+  assetPath: Assets/HyyderWorks/Footstepper/Demo/Textures/GroundLayer.terrainlayer
+  uploadId: 774132
