@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3b4d791e29f54de43af2f8a452dacb7e
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326141
+  packageName: 'Footstepper : Lightweight Footsteps Solution'
+  packageVersion: 1.0.1
+  assetPath: Assets/Scenes/Demo_Distance.unity
+  uploadId: 774132

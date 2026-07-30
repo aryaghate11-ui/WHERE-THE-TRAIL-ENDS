@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d26fe35331eb5174dbad6b9bd1ccbe60
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326141
+  packageName: 'Footstepper : Lightweight Footsteps Solution'
+  packageVersion: 1.0.1
+  assetPath: Assets/Scenes/Demo_AnimationEvent.unity
+  uploadId: 774132
